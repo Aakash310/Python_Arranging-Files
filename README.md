@@ -18,7 +18,7 @@ It takes care of low-level semantics like creating file objects, closing the fil
 #### AIM: 
 The function of this python code is to segreagate the different extensions file in mainly audio folder , video folder and document folder.
 [![Image-editing1.png](https://i.postimg.cc/sfKWr699/Image-editing1.png)](https://postimg.cc/23bydxtV)
-######After executing the code!!!!!!!!!!!!!!!!!!!!!!!!!!
+###### After executing the code!!!!!!!!!!!!!!!!!!!!!!!!!!
 [![Image-editing2.png](https://i.postimg.cc/ncPQsXWX/Image-editing2.png)](https://postimg.cc/PP1q95TH)
 [![Image-editing3.png](https://i.postimg.cc/C1SZykRQ/Image-editing3.png)](https://postimg.cc/PLVfYLzW)
 [![Image-editing4.png](https://i.postimg.cc/9Q9zrJTk/Image-editing4.png)](https://postimg.cc/MnWzL090)
